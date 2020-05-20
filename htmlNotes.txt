@@ -1,0 +1,86 @@
+The HTML page structure
+------------------------------
+<html>
+	<head>
+		<title>    
+		</title>
+	</head>
+	<body>
+		
+	</body>
+</html>
+
+<Title> : - this tag use to give name to Tab.
+<input> :- For user imput 
+Exaple of Text box
+-------------------
+<html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body>
+		<table>  
+			<tr>
+				<td><span>Enter User Name</span></td>
+				<td><input type="text"/></td>
+			</tr>
+			<tr>
+				<td><span>Enter Password</span></td>
+				<td><input type="text"/></td>
+			</tr>
+		</table>
+	</body>
+</html>
+Example of list Item
+----------------------------
+<html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body>
+		<ul>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+		</ul>
+		
+		<ol>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+			<li>Ajinkya</li>
+		</ol>
+	</body>
+</html>
+Example of dropdown
+------------------------------------
+<html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body>
+		<select>
+			<option>Select</option>
+			<option>Select</option>
+			<option>Select</option>
+		</select>
+	</body>
+</html>
+-------------------------------------
+Example of Check Box
+
+<html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body>
+		Dal <input type="checkBox">
+		Roti <input type="checkBox">
+		Chiken <input type="checkBox">
+		<hr>
+		Male <input type="radio">
+		FeMale <input type="radio">
+	</body>
+</html>
+
